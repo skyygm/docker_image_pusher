@@ -16,3 +16,4 @@ cloudnas/clouddrive2
 homeassistant/home-assistant
 6053537/portainer-ce
 herberthe0229/iptv-sources
+thijsvanloef/palworld-server-docker
