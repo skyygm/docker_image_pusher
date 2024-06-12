@@ -1,17 +1,17 @@
 nginx
 kasmweb/nginx:1.25.3
 gdy666/lucky
-xhofe/alist:latest
-xiaoyaliu/alist:latest
+xhofe/alist
+xiaoyaliu/alist
 xiaoyaliu/alist:hostmode
-haroldli/xiaoya-tvbox:latest
+haroldli/xiaoya-tvbox
 alpine:3.18.2
 --platform=linux/arm64 xiaoyaliu/alist
 nastools/nas-tools:2.9.1
 nastools/nas-tools:3.2.2
-nastools/nas-tools:latest
-jxxghp/moviepilot:latest
+nastools/nas-tools
+jxxghp/moviepilot
 amilys/embyserver:4.8.0.56
-cloudnas/clouddrive2:latest
-homeassistant/home-assistant:latest
-6053537/portainer-ce:latest
+cloudnas/clouddrive2
+homeassistant/home-assistant
+6053537/portainer-ce
