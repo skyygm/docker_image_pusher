@@ -15,3 +15,4 @@ amilys/embyserver:4.8.0.56
 cloudnas/clouddrive2
 homeassistant/home-assistant
 6053537/portainer-ce
+herberthe0229/iptv-sources
